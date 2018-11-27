@@ -26,3 +26,11 @@ You can view a paper presenting the results of this project [here](https://githu
 For this project, my team and I were awarded the *Bycast Award for Entrepreneurship* and the *UBC Design and Innovation Day Industry Award*.
 
 ![Workout GIF](img/workout.gif)
+
+## Convolutional Encoder - From Theory to Layout
+
+One of my interests is implementing interesting algebra and theoretical information theory algorithms in hardware. I find it quite rewarding to see your reaserch go on to be used in a physical product. This is why I chose to take a class in VLSI. This was great, becasue it gave be access to software that would otherwise be thousands of dollars. 
+
+In this project I designed and verify a convolutional encoder, and layout a custom chip using Cadence tools. I was even able to design some of the standard cells myself. This was a  great experience, because it combined my passions of information theory and device physics to create something useful. 
+
+![Wiring](wiring_diagram.PNG)
