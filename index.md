@@ -35,6 +35,6 @@ In this project I designed and verify a convolutional encoder, and layout a cust
 
 You view some of my work in 
 
-![Wiring](img/wiring_diagram.PNG = 250x)
+![Wiring](img/wiring_diagram.PNG =250x)
 
-## 
+ 
