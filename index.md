@@ -33,8 +33,6 @@ One of my interests is implementing interesting algebra and theoretical informat
 
 In this project I designed and verify a convolutional encoder, and layout a custom chip using Cadence tools. I was even able to design some of the standard cells myself. This was a  great experience, because it combined my passions of information theory and device physics to create something useful. 
 
-You view some of my work in 
-
-![Wiring](img/wiring_diagram.PNG =250x)
+![Wiring](img/wiring_diagram.jpg)
 
  
