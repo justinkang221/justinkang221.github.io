@@ -1,6 +1,6 @@
 ## Quantum Simulations for Phase Change Memories
 
-This is a reaserch project I worked on during a graduate course I took during the final year of my undergraduate degree. While working at Intel I became very interested in the physics of memory cells, and Intel's 3DXP memory in particular. Thus when I returned to school, and had the opportunity to persue some independant research, this project came to be.
+This is a research project I worked on during a graduate course I took during the final year of my undergraduate degree. While working at Intel I became very interested in the physics of memory cells, and Intel's 3DXP memory in particular. Thus when I returned to school, and had the opportunity to pursue some independent research, this project came to be.
 
 You can view a paper which summarizes the result of my research [here](https://github.com/justinkang221/justinkang221.github.io/blob/master/dft_pcm_research.pdf)
 
@@ -8,7 +8,7 @@ You can view a paper which summarizes the result of my research [here](https://g
 
 ## Work at Intel
 
-Over my undergradute degree, I've had the opportunity to spend 12 months working with an amazing group of research engineers at Intel. During my time there I worked on everything from hardware verification, to the cutting edge of information theory reaserch. 
+Over my undergraduate degree, I've had the opportunity to spend 12 months working with an amazing group of research engineers at Intel. During my time there I worked on everything from hardware verification, to the cutting edge of information theory research. 
 
 I was also selected as one of 10 employees to travel to Intel sites across America. I was able to meet some inspiring people along the way, and the trip motivated me to go after my dreams and take risks like Robert Noyce and Gordon Moore did 50 years ago when they went to go work for Dr. Schockley
 
@@ -29,10 +29,8 @@ For this project, my team and I were awarded the *Bycast Award for Entrepreneurs
 
 ## Convolutional Encoder - From Theory to Layout
 
-One of my interests is implementing interesting algebra and theoretical information theory algorithms in hardware. I find it quite rewarding to see your reaserch go on to be used in a physical product. This is why I chose to take a class in VLSI. This was great, becasue it gave me access to software that would otherwise be thousands of dollars. 
+One of my interests is implementing interesting algebra and theoretical information theory algorithms in hardware. I find it quite rewarding to see your research go on to be used in a physical product. This is why I chose to take a class in VLSI. This was great, because it gave me access to software that would otherwise cost thousands of dollars. 
 
-In this project I designed and verify a convolutional encoder, and layout a custom chip using Cadence tools. I was even able to design some of the standard cells myself. This was a  great experience, because it combined my passions of information theory and device physics to create something useful. 
+In this project I designed and verified a convolutional encoder, as well as did layout out using Cadence tools. I was even able to design some of the standard cells myself. This was a great experience, because it combined my passions of information theory hardware design to create something useful. 
 
 ![Wiring](img/wiring_diagram.jpg)
-
- 
