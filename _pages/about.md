@@ -9,6 +9,8 @@ redirect_from:
 ---
 Welcome to my website. Below you can see some interesting projects I've been
 working on.
+
+
 Work at Intel
 ======
 

@@ -1,7 +1,7 @@
 ---
 title: "Quantum Simulations for Phase Change Memories"
 excerpt: "Simulations to study new materials for application in phase change
-memories <br/><img src='/images/ferro_si.png'>"
+memories <br/><img src='/images/ferro_si.png' style="max-width:60%">"
 collection: portfolio
 ---
 
