@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Justin Kang"
 title_separator          : "-"
 name                     : &name "Justin Kang"
-description              : &description "Master's Student at U of T"
+description              : &description "Justin Kang"
 url                      : https://justinkang221.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "justinkang221/justinkang221.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "Graduate Student at the Edward S. Roger's School of Electrical and Computer Engineering at THe university of Toronto"
+  bio              : "Graduate Student at the Department of Electrical and Computer Engineering at The University of Toronto"
   location         : "Toronto, ON, Canada"
   employer         :
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=0I2yD4EAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-#  github           : "academicpages"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/justin-kang-uoft/"
   orcid            : "https://orcid.org/0000-0002-3977-6848"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
