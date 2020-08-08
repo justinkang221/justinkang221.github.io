@@ -10,4 +10,4 @@ This is a research project I worked on during a graduate course I took during th
 
 You can view a paper which summarizes the result of my research [here](files/dft_pcm_research.pdf)
 
-![Ferro Si](../images/ferro_si.png)
+![Ferro Si](images/ferro_si.png)
