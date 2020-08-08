@@ -2,16 +2,16 @@
 main:
       - title: "Preprints and Publications"
         url: /publications/
-    #
+     
+     - title: "Projects"
+        url: /portfolio/
+    #        
     #  - title: "Talks"
     #    url: /talks/    
     #
     #  - title: "Teaching"
     #    url: /teaching/    
     #    
-      - title: "Projects"
-         url: /portfolio/
-    #        
     #  - title: "Blog Posts"
     #    url: /year-archive/
     #    
