@@ -16,7 +16,7 @@ Quantum Simulations for Phase Change Memories
 
 This is a research project I worked on during a graduate course I took during the final year of my undergraduate degree. While working at Intel I became very interested in the physics of memory cells, and Intel's 3DXP memory in particular. Thus when I returned to school, and had the opportunity to pursue some independent research, this project came to be.
 
-You can view a paper which summarizes the result of my research [here](https://github.com/justinkang221/justinkang221.github.io/blob/master/dft_pcm_research.pdf)
+You can view a paper which summarizes the result of my research [here](files/dft_pcm_research.pdf)
 
 ![Ferro Si](../images/ferro_si.png)
 
@@ -38,7 +38,7 @@ Fitness Tracking Using Machine Vision
 This is a group research project I competed as a Capstone Project. My friends and I, all of whom have a strong interest in fitness, as well as technology, saw the potential of machine learning to revolutionize the fitness industry. We worked on a machine vision system which can watch a subject and figure out which exercise they are doing, and give them feedback on what to do next. 
 
 
-You can view a paper presenting the results of this project [here](https://github.com/justinkang221/justinkang221.github.io/blob/master/ENPH_459_Project_Summary.pdf)
+You can view a paper presenting the results of this project [here](files/ENPH_459_Project_Summary.pdf)
 
 For this project, my team and I were awarded the *Bycast Award for Entrepreneurship* and the *UBC Design and Innovation Day Industry Award*.
 

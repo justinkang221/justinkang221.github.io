@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Graduate Student at the Department of Electrical and Computer Engineering at The University of Toronto"
   location         : "Toronto, ON, Canada"
   employer         :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "justinkang221"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/justin-kang-uoft/"
+  linkedin         : "in/justin-kang-uoft/"
   orcid            : "https://orcid.org/0000-0002-3977-6848"
   pinterest        :
   soundcloud       :
