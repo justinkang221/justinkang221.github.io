@@ -3,7 +3,7 @@ title: "Minimum Feedback for Collision-Free Random Access (Journal Preprint)"
 collection: publications
 permalink: /publication/T_IT_1
 excerpt: ''
-date: 2009-10-01
+date: 2020-08-1
 venue: 'Submitted to IEEE Trans. Inf. Theory'
 paperurl: 'https://arxiv.org/abs/2007.15497'
 citation: 'Kang, J., Yu, W.  (2020). &quot; Minimum Feedback for Collision-Free Random Access.&quot;.'
