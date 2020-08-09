@@ -1,7 +1,7 @@
 ---
-title: "Minimum Feedback for Collision-Free Random Access (Journal Prepreint)"
+title: "Minimum Feedback for Collision-Free Random Access (Journal Preprint)"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/T_IT_1
 excerpt: ''
 date: 2009-10-01
 venue: 'Submitted to IEEE Trans. Inf. Theory'
