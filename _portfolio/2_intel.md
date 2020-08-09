@@ -1,7 +1,6 @@
 ---
 title: "Working at Intel"
-excerpt: "Simulations to study new materials for application in phase change
-memories <br/><img src='/images/intel.jpg'>"
+excerpt: "One year internship at Intel. <br/><img src='/images/intel.jpg'>"
 collection: portfolio
 ---
 

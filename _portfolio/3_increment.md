@@ -1,7 +1,6 @@
 ---
 title: "Fitness Tracking Using Machine Vision"
-excerpt: "Simulations to study new materials for application in phase change
-memories <br/><img src='/images/workout.gif'>"
+excerpt: "Machine vision startup with $10000 in venture capital. <br/><img src='/images/workout.gif'>"
 collection: portfolio
 ---
 
