@@ -1,0 +1,32 @@
+---
+title: "Minimum Feedback for Collision-Free Random Access"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: ''
+date: 2009-10-01
+venue: 'Int. Symp. Inf. Theory (ISIT) 2020'
+paperurl: 'https://www.comm.utoronto.ca/~weiyu/2020_ISIT_Justin.pdf'
+citation: 'Kang, J., Yu, W.  (2020). &quot; Minimum Feedback for Collision-Free Random Access.&quot; <i>Int. Symp. Inf. Theory</i>.'
+---
+Abstract: This paper considers a massive random access scenario where a small random set
+of $k$ active users out of a larger number of $n$ total potential users seek to
+transmit data to a base station. Specifically, we examine an approach in which
+the base station first determines the set of active users based on an uplink pilot
+phase, then broadcasts a common feedback message to all the active users for
+the scheduling of their subsequent data transmissions. Our main question is:
+What is the minimum amount of common feedback needed to schedule $k$ users in
+$k$ slots while completely avoiding collisions?  Instead of a naive scheme of
+using $k \log(n)$ feedback bits, this paper presents upper and lower bounds to
+show that the minimum number of required common feedback bits scales linearly
+in $k$, plus an additive term that scales only as $\Theta (\log\log(n))$. 
+The achievability
+proof is based on a random coding argument. We further connect the problem of
+constructing a minimal length feedback code to that of finding a minimal
+set of complete $k$-partite subgraphs that form an edge covering of a $k$-uniform
+complete hypergraph with $n$ vertices. Moreover, the problem is also equivalent
+to that of finding a minimal perfect hashing family, thus allowing leveraging the
+explicit perfect hashing code constructions for achieving collision-free 
+massive random access.
+
+[Download paper here](https://www.comm.utoronto.ca/~weiyu/2020_ISIT_Justin.pdf)
+
