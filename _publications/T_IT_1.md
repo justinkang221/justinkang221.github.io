@@ -1,5 +1,5 @@
 ---
-title: "Minimum Feedback for Collision-Free Random Access (Journal Preprint)"
+title: "[Preprint] Minimum Feedback for Collision-Free Random Access"
 collection: publications
 permalink: /publication/T_IT_1
 excerpt: ''
