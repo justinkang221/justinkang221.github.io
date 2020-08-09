@@ -11,19 +11,6 @@ Welcome to my website. Below you can see some interesting projects I've been
 working on.
 
 
-Fitness Tracking Using Machine Vision 
-=====
-
-
-This is a group research project I competed as a Capstone Project. My friends and I, all of whom have a strong interest in fitness, as well as technology, saw the potential of machine learning to revolutionize the fitness industry. We worked on a machine vision system which can watch a subject and figure out which exercise they are doing, and give them feedback on what to do next. 
-
-
-You can view a paper presenting the results of this project [here](files/ENPH_459_Project_Summary.pdf)
-
-For this project, my team and I were awarded the *Bycast Award for Entrepreneurship* and the *UBC Design and Innovation Day Industry Award*.
-
-![Workout GIF](../images/workout.gif)
-
 Convolutional Encoder - From Theory to Layout
 =====
 
