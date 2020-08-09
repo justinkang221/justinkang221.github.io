@@ -1,6 +1,6 @@
 ---
 title: "Convolutional Encoder - From Theory to Layout"
-excerpt: "Designing a convolutional encoder from the ground up. <br/><div style="text-align:center"><img src="/images/wiring_diagram.jpg"/></div>"
+excerpt: "Designing a convolutional encoder from the ground up. <br/><img src="/images/wiring_diagram.jpg"/>"
 collection: portfolio
 ---
 
