@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website. You can find my <a href=''>Publications</a>, <a href=''>Projects</a> and <a href=''>CV</a> above. Below, you can find some information about me.
+Welcome to my website. You can find my <a href='Publications'>Publications</a>, <a href='Portfolio'>Projects</a> and <a href='files/Resume.pdf'>CV</a> above. Below, you can find some information about me.
 
 About Me
 ======
