@@ -1,10 +1,10 @@
 ---
-title: "[Preprint] Minimum Feedback for Collision-Free Random Access"
+title: "[Pre-print] Minimum Feedback for Collision-Free Random Access"
 collection: publications
 permalink: /publication/T_IT_1
 excerpt: ''
 date: 2020-08-1
-venue: 'Submitted to IEEE Trans. Inf. Theory'
+venue: '(* Pre-print)'
 paperurl: 'https://arxiv.org/abs/2007.15497'
 citation: 'Kang, J., Yu, W.  (2020). &quot; Minimum Feedback for Collision-Free Random Access.&quot;.'
 ---

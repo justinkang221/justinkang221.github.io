@@ -1,6 +1,6 @@
 ---
 title: "Fitness Tracking Using Machine Vision"
-excerpt: "Machine vision startup with $10000 in venture capital. <br/><img src='/images/workout.gif'>"
+excerpt: "Machine vision project with $10000 in venture capital. <br/><img src='/images/workout.gif'>"
 collection: portfolio
 ---
 
