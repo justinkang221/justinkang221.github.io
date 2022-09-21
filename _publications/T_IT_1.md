@@ -3,10 +3,10 @@ title: "[Pre-print] Minimum Feedback for Collision-Free Random Access"
 collection: publications
 permalink: /publication/T_IT_1
 excerpt: ''
-date: 2020-08-1
-venue: '(* Pre-print)'
-paperurl: 'https://arxiv.org/abs/2007.15497'
-citation: 'Kang, J., Yu, W.  (2020). &quot; Minimum Feedback for Collision-Free Random Access.&quot;.'
+date: 2021-09-1
+venue: IEEE Transactions on Information Theory
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9543702'
+citation: 'Kang, J., Yu, W.  (2021). &quot; Minimum Feedback for Collision-Free Random Access.&quot;.'
 ---
 
 Abstract:Consider a massive random access scenario in which a small set of $k$
