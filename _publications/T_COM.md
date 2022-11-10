@@ -1,5 +1,5 @@
 ---
-title: "Minimum Feedback for Collision-Free Scheduling in Massive Random Access"
+title: "Minimum FScheduling Versus Contention for Massive Random Access in Massive MIMO Systems"
 collection: publications
 permalink: /publication/T_COM
 excerpt: ''
