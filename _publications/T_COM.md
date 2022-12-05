@@ -1,5 +1,5 @@
 ---
-title: "Minimum FScheduling Versus Contention for Massive Random Access in Massive MIMO Systems"
+title: "Scheduling Versus Contention for Massive Random Access in Massive MIMO Systems"
 collection: publications
 permalink: /publication/T_COM
 excerpt: ''
