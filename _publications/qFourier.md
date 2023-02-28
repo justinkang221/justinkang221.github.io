@@ -6,10 +6,10 @@ excerpt: ''
 date: 2023-01-15
 venue: Preprint
 paperurl: 'https://arxiv.org/pdf/2301.13336.pdf'
-citation: 'Kang, J., Erginbas*, Y. E., Agzazadeh, A., Ramchandran, K. (2023). &quot;Efficiently Computing Sparse Fourier Transforms of q-ary Functions.&quot;.'
+citation: 'Kang, J., Erginbas*, Y. E., Agzazadeh, A., Ramchandran, K. (2023). &quot;Efficiently Computing Sparse Fourier Transforms of q-ary Functions&quot;.'
 ---
 
-Abstract:Fourier transformations of pseudo-Boolean functions are popular tools for analyzing functions of
+Abstract: Fourier transformations of pseudo-Boolean functions are popular tools for analyzing functions of
 binary sequences. Real-world functions often have structures that manifest in a sparse Fourier transform,
 and previous works have shown that under the assumption of sparsity the transform can be computed
 efficiently. But what if we want to compute the Fourier transform of functions defined over a q-ary
