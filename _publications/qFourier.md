@@ -24,3 +24,6 @@ assumptions, we show that for fixed $q$, a robust version of $q$-SFT has a sampl
 and a computational complexity of $O(Sn^3)$ with the same asymptotic guarantees. We present numerical
 simulations on synthetic and real-world RNA data, demonstrating the scalability of $q$-SFT to massively
 high dimensional $q$-ary functions.
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_UgRE1iSrzY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
