@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/qFourier
 excerpt: ''
 date: 2023-01-15
-venue: Preprint
-paperurl: 'https://arxiv.org/pdf/2301.13336.pdf'
+venue:  'IEEE Int. Symp. Inf. Theory (ISIT)'
+paperurl: 'https://ieeexplore.ieee.org/document/10206686'
 citation: 'Kang, J., Erginbas*, Y. E., Agzazadeh, A., Ramchandran, K. (2023). &quot;Efficiently Computing Sparse Fourier Transforms of q-ary Functions&quot;.'
 ---
 
