@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Fariness
 excerpt: ''
 date: 2023-01-30
-venue: Preprint
+venue: TMLR, To appear
 paperurl: 'https://arxiv.org/pdf/2301.13336.pdf'
 citation: 'Kang, J., Pedarsani, R., Ramchandran, K.  (2023). &quot;The Fair Value of Data Under Heterogeneous Privacy Constraints&quot;.'
 ---
