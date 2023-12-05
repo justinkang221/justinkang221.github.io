@@ -2,12 +2,12 @@
 main:
       - title: "Publications"
         url: /publications/
-     
-      - title: "Projects"
-        url: /portfolio/
 
       - title: "CV"
         url: /files/Resume.pdf
+     
+      - title: "Archived Projects"
+        url: /portfolio/
     #        
     #  - title: "Talks"
     #    url: /talks/    
