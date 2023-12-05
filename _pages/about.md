@@ -18,8 +18,8 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 Recent Papers
 ======
 
-Learning a 1-Layer Conditional Generative Model in Total Variation. *Ajil Jalal, Justin Singh Kang, Ananya Uppal, Kannan Ramchandran, Eric Price*. NeurIPS 2023.
+1. Learning a 1-Layer Conditional Generative Model in Total Variation. *Ajil Jalal, Justin Singh Kang, Ananya Uppal, Kannan Ramchandran, Eric Price*. NeurIPS 2023.
 
-The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran. arxiv.2301.13336*, NeurIPS Workshops - FL@FM Dec. 2023, TMLR (to appear).
+2. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran. arxiv.2301.13336*, NeurIPS Workshops - FL@FM Dec. 2023, TMLR (to appear).
 
-Efficiently Computing Sparse Fourier Transforms of q-ary Functions. *Justin Singh Kang, Y. E. Erginbas, A. Aghazadeh and K. Ramchandran*. IEEE ISIT 2023
+3. Efficiently Computing Sparse Fourier Transforms of q-ary Functions. *Justin Singh Kang, Y. E. Erginbas, A. Aghazadeh and K. Ramchandran*. IEEE ISIT 2023
