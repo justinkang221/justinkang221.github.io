@@ -22,3 +22,6 @@ concept, fairness is defined only among users, leading to a potential fairness-c
 design problem for the platform. We consider explicit examples involving private heterogeneous data
 and show how these notions of fairness can be applied. To the best of our knowledge, these are the first
 fairness concepts for data that explicitly consider privacy constraints.
+
+p
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_UgRE1iSrzY&t=2s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
