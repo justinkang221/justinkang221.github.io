@@ -11,7 +11,7 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 
 * I am a Graduate Student at the University of California, Berkeley, supervised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>.
 * Previously, I completed my Master's of Applied Science at The University of Toronto supervised by <a href='https://www.comm.utoronto.ca/~weiyu/'>Prof. Wei Yu</a>.
-* My research interests include machine learning, privacy in learning, and data valuation. Recently, I've been applying some ideas from valuation/importance scoring to explainable AI (see paper 1 below). I have a strong background in signal processing and information theory, and like to view these modern learning problems through that lens, which often leads to unique and exciting solutions.
+* My research interests include machine learning, privacy in learning, and data valuation. Recently, I've been applying some ideas from valuation/importance scoring to explainable AI for LLMs (see paper 1 below). I have a strong background in signal processing and information theory, and like to view these modern learning problems through that lens, which often leads to unique and exciting solutions.
 * In 2019 I received my B.A.Sc. from the <a href='https://www.ubc.ca/'>University of British Columbia</a> in <a href="https://www.engphys.ubc.ca/">Engineering Physics</a>.
 
 **I am currently seeking internships for Summer and/or Fall 2024**
