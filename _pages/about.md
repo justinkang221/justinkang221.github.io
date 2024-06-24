@@ -14,7 +14,10 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 * My research interests include machine learning, privacy in learning, and data valuation. Recently, I've been applying some ideas from valuation/importance scoring to explainable AI for LLMs (see paper 1 below). I have a strong background in signal processing and information theory, and like to view these modern learning problems through that lens, which often leads to unique and exciting solutions.
 * In 2019 I received my B.A.Sc. from the <a href='https://www.ubc.ca/'>University of British Columbia</a> in <a href="https://www.engphys.ubc.ca/">Engineering Physics</a>.
 
-**I am currently seeking internships for Summer and/or Fall 2024**
+Recent News
+======
+* I'm happy to anounce that my paper has won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE Communication Society and Information Theory Society Joint Paper Award</a>.
+* I'll be joining Google this summer as a Student Reseacher, working on a project with the Google Cloud Platforms Systems Research Group (SRG) hosted by Kun Lin and Prof. David Culler.
 
 Recent Papers
 ======
