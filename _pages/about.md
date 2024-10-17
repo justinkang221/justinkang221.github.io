@@ -19,7 +19,7 @@ Recent News
 
 * My paper *Learning to Understand: Identifying Interactions via the Mobius Transform* has been accepted to NeurIPS!
 * A recent <a href="https://builtin.com/articles/what-is-federated-learning">article about Federated Learning</a> that I was interviewed for.
-* I'm happy to anounce that my paper has won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE Communication Society and Information Theory Society Joint Paper Award</a>.
+* I'm happy to anounce that my paper has won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE Communication Society and Information Theory Society Joint Paper Award</a>. This is one of two paper awards
 * I'll be joining Google for summer 2024 as a Student Reseacher, working on a project with the Google Cloud Platforms Systems Research Group (SRG) hosted by Kun Lin and Prof. David Culler.
 
 
@@ -30,6 +30,6 @@ Recent Papers
 
 2. Learning a 1-Layer Conditional Generative Model in Total Variation. *Ajil Jalal, Justin Singh Kang, Ananya Uppal, Kannan Ramchandran, Eric Price*. NeurIPS 2023. (<a href='https://openreview.net/forum?id=wImYhdu4VF'>paper</a>, <a href='https://nips.cc/virtual/2023/poster/70066'>video</a>, <a href='https://nips.cc/media/PosterPDFs/NeurIPS%202023/70066.png?t=1702321855.5320883'>poster</a>, <a href='https://github.com/basics-lab/learningGenerativeModels'>code</a>)
 
-3. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran. arxiv.2301.13336*, NeurIPS Workshops - FL@FM Dec. 2023, TMLR (to appear). (<a href='https://arxiv.org/abs/2301.13336'>paper</a>, <a href='https://www.youtube.com/watch?v=S_DBTIlaodE'>video</a>)
+3. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran. arxiv.2301.13336*, NeurIPS Workshops - FL@FM Dec. 2023, TMLR, 2024. (<a href='https://arxiv.org/abs/2301.13336'>paper</a>, <a href='https://www.youtube.com/watch?v=S_DBTIlaodE'>video</a>)
 
 4. Efficiently Computing Sparse Fourier Transforms of q-ary Functions. *Justin Singh Kang, Y. E. Erginbas, A. Aghazadeh and K. Ramchandran*. IEEE ISIT 2023 (<a href='https://ieeexplore.ieee.org/document/10206686'>paper</a>, <a href='https://www.youtube.com/watch?v=_UgRE1iSrzY&t=2s'>video</a>, <a href='https://github.com/basics-lab/qsft'>code</a>)
