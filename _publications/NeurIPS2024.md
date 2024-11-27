@@ -5,9 +5,11 @@ permalink: /publications/learning-to-understand
 excerpt: ''
 date: 2024-12-10
 venue: Advances in Neural Information Processing Systems (NeurIPS)
-paperurl: 'https://justinkang221.github.io/files/kang2024mobius.pdf'
-citation: 'Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. &quot;Learning to Understand: Identifying Interactions via the Mobius Transform&quot;.' NeurIPS, 2024.
+paperurl: '<a href="https://justinkang221.github.io/files/kang2024mobius.pdf">(full paper)</a>'
+citation: 'Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. &quot;Learning to Understand: Identifying Interactions via the Mobius Transform&quot;. NeurIPS, 2024.'
 ---
+
+
 
 Abstract: One of the key challenges in machine learning is to find interpretable representations of learned functions. The Mobius transform is essential for this purpose, as its coefficients correspond to unique *importance scores* for *sets of input variables*.
 This transform is closely related to widely used game-theoretic notions of importance like the *Shapley* and *Bhanzaf value*, but it also captures crucial higher-order interactions.
