@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-12-10
 venue: Advances in Neural Information Processing Systems (NeurIPS)
 paperurl: 'https://justinkang221.github.io/files/kang2024mobius.pdf'
-citation: 'Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. &quot;Learning to Understand: Identifying Interactions via the Mobius Transform&quot;. NeurIPS, 2024.'
+citation: 'Kang, J.S., <a href="https://erginbas.github.io/">Erginbas, Y.E.</a>, <a href="https://landonbutler.github.io/">Butler, L.</a>, <a href="https://web.ece.ucsb.edu/~ramtin/">Pedarsani, R.</a>, <a href="https://people.eecs.berkeley.edu/~kannanr/">Ramchandran, K.</a> &quot;Learning to Understand: Identifying Interactions via the Mobius Transform&quot;. NeurIPS, 2024.'
 ---
 
 <img src="/images/interactions.png">
