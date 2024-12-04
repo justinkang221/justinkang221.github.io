@@ -11,6 +11,9 @@ citation: 'Kang, J.S., <a href="https://erginbas.github.io/">Erginbas, Y.E.</a>,
 
 <img src="/images/interactions.png">
 
+
+<a href='files/Learning_to_Understand_Poster_NeurIPS.pdf'>poster</a>
+
 Abstract: One of the key challenges in machine learning is to find interpretable representations of learned functions. The Mobius transform is essential for this purpose, as its coefficients correspond to unique *importance scores* for *sets of input variables*.
 This transform is closely related to widely used game-theoretic notions of importance like the *Shapley* and *Bhanzaf value*, but it also captures crucial higher-order interactions.
 Although computing the Mobius Transform of a function with $n$ inputs involves $2^n$ coefficients, it becomes tractable when the function is *sparse* and of *low degree* as we show is the case for many real-world functions. Under these conditions, the complexity of the transform computation is significantly reduced.
