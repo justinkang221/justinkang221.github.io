@@ -6,7 +6,7 @@ excerpt: ''
 date: 2025-02-10
 venue: Preprint
 paperurl: 'https://arxiv.org/abs/2502.13870'
-citation: 'Kang, J.S., <a href='https://aagarwal1996.github.io/'>Agarwal, A.,</a>  <a href="https://erginbas.github.io/">Erginbas, Y.E.</a>, <a href="https://landonbutler.github.io/">Butler, L.</a>, <a href="https://web.ece.ucsb.edu/~ramtin/">Pedarsani, R.</a>, <a href="https://people.eecs.berkeley.edu/~kannanr/">Ramchandran, K.</a> &quot; SPEX: Scaling Feature Interaction Explanations for LLMs'
+citation: 'Kang, J.S., <a href="https://aagarwal1996.github.io/">Agarwal, A.,</a>  <a href="https://erginbas.github.io/">Erginbas, Y.E.</a>, <a href="https://landonbutler.github.io/">Butler, L.</a>, <a href="https://web.ece.ucsb.edu/~ramtin/">Pedarsani, R.</a>, <a href="https://people.eecs.berkeley.edu/~kannanr/">Ramchandran, K.</a> &quot; SPEX: Scaling Feature Interaction Explanations for LLMs'
 ---
 
 <img src="/images/interaction_diagram.png">
