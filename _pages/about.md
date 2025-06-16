@@ -17,7 +17,7 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 Recent News
 ======
 * I'll be joining Suraj Srinivas, Jorge Piazentin Ono and Jared Evans this summer working on Autolabeling and data filtering problems at Bosch AI Research.
-* Excited to present our recent research in interpreting LLMs at the <a href=https://arl.devcom.army.mil/>DEVCOM Army Research Lab</a>.
+* Excited to present our recent research in interpreting LLMs at the <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Lab</a>.
 * Our paper *SPEX: Scaling Feature Interaction Explanations for LLMs* has been accepted to ICML! SPEX makes it easier to attribute importance in LLMs and other models, helping you interpret your models.
 * Our paper *Learning to Understand: Identifying Interactions via the Mobius Transform* has been accepted to NeurIPS!
 * A recent <a href="https://builtin.com/articles/what-is-federated-learning">article about Federated Learning</a> that I was interviewed for.
