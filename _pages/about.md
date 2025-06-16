@@ -16,8 +16,10 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 
 Recent News
 ======
-
-* My paper *Learning to Understand: Identifying Interactions via the Mobius Transform* has been accepted to NeurIPS!
+* I'll be joining Suraj Srinivas, Jorge Piazentin Ono and Jared Evans this summer working on Autolabeling and data filtering problems at Bosch AI Research.
+* Excited to present our recent research in interpreting LLMs at the <a href=https://arl.devcom.army.mil/>DEVCOM Army Research Lab</a>.
+* Our paper *SPEX: Scaling Feature Interaction Explanations for LLMs* has been accepted to ICML! SPEX makes it easier to attribute importance in LLMs and other models, helping you interpret your models.
+* Our paper *Learning to Understand: Identifying Interactions via the Mobius Transform* has been accepted to NeurIPS!
 * A recent <a href="https://builtin.com/articles/what-is-federated-learning">article about Federated Learning</a> that I was interviewed for.
 * I'm happy to anounce that my paper has won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE Communication Society and Information Theory Society Joint Paper Award</a>. This is one of two paper awards
 * I'll be joining Google for summer 2024 as a Student Reseacher, working on a project with the Google Cloud Platforms Systems Research Group (SRG) hosted by Kun Lin and Prof. David Culler.
@@ -26,7 +28,7 @@ Recent News
 Selected Papers
 ======
 
-1. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e),Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.*, Preprint. (<a href="https://arxiv.org/abs/2502.13870">paper</a>)
+1. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e),Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.*, Preprint. (<a href="https://arxiv.org/abs/2502.13870">ICML 2025</a>)
 
 2. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)*, NeurIPS, 2024. (<a href="https://arxiv.org/abs/2402.02631">paper</a>, <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a>) 
 
