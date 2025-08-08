@@ -21,7 +21,7 @@ Recent News
 * Our paper *SPEX: Scaling Feature Interaction Explanations for LLMs* has been accepted to ICML! SPEX makes it easier to attribute importance in LLMs and other models, helping you interpret your models.
 * Our paper *Learning to Understand: Identifying Interactions via the Mobius Transform* has been accepted to NeurIPS!
 * A recent <a href="https://builtin.com/articles/what-is-federated-learning">article about Federated Learning</a> that I was interviewed for.
-* I'm happy to anounce that my paper has won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE Communication Society and Information Theory Society Joint Paper Award</a>. This is one of two paper awards
+* I'm happy to anounce that my paper has won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE Communication Society and Information Theory Society Joint Paper Award</a>.
 * I'll be joining Google for summer 2024 as a Student Reseacher, working on a project with the Google Cloud Platforms Systems Research Group (SRG) hosted by Kun Lin and Prof. David Culler.
 
 
