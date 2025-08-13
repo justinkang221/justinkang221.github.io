@@ -11,7 +11,7 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 
 * I am a Graduate Student at the University of California, Berkeley, affiliated with the BAIR Lab and supervised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>.
 * Previously, I completed my Master's of Applied Science at The University of Toronto supervised by <a href='https://www.comm.utoronto.ca/~weiyu/'>Prof. Wei Yu</a>.
-* My current research focus is in *attribution* problems: trying to explain which components (input features, training data, etc.) are most significant in the prediction of a model (Such as an LLM). I think understanding these problems is critical to building better models that can faithfully explain themselves.
+* My current research focus is in *attribution* problems: trying to explain which components (input features, training data, etc.) are most significant in the prediction of a model (such as an LLM). I think understanding these problems is critical to building better models that can faithfully explain themselves.
 * I have a strong background in signal processing and information theory, and like to view machine learning problems through that lens, which often leads to unique and exciting solutions.
 * I received my B.A.Sc. from the <a href='https://www.ubc.ca/'>University of British Columbia</a> in <a href="https://www.engphys.ubc.ca/">Engineering Physics</a>.
 
