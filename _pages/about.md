@@ -17,7 +17,8 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 
 Recent News
 ======
-* I'll be joining Suraj Srinivas, Jorge Piazentin Ono and Jared Evans this summer working on Autolabeling and data filtering problems at Bosch AI Research.
+* Our papers *ProxySPEX* (Spotlight) and *SHAP-Zero* (Poster) have been accepted to NeurIPS 2025.
+* I'll be joining Suraj Srinivas, Jorge Piazentin Ono and Jared Evans this summer working on Autolabeling and data filtering problems at Bosch AI Research (Paper under preperation).
 * Excited to present our recent research in interpreting LLMs at the <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Lab</a>.
 * Our paper *SPEX: Scaling Feature Interaction Explanations for LLMs* has been accepted to ICML! SPEX makes it easier to attribute importance in LLMs and other models, helping you interpret your models.
 * Our paper *Learning to Understand: Identifying Interactions via the Mobius Transform* has been accepted to NeurIPS!
@@ -29,9 +30,9 @@ Recent News
 Selected Papers
 ======
 
-1. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E.,  Ramchandran, K., Yu, B. Preprint. (<a href="https://arxiv.org/abs/2505.17495">paper</a>)*
+1. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E.,  Ramchandran, K., Yu, B. NeurIPS, 2025. (<a href="https://arxiv.org/abs/2505.17495">paper</a>)*
 
-2. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E.,  Kang, J.S., Aghazadeh. Preprint (<a href="https://arxiv.org/abs/2410.19236">paper</a>)
+2. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E.,  Kang, J.S., Aghazadeh. NeurIPS, 2025 (<a href="https://arxiv.org/abs/2410.19236">paper</a>)
 
 3. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e),Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.*, ICML, 2025. (<a href="https://arxiv.org/abs/2502.13870">paper</a>)
 
