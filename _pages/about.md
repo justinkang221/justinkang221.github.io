@@ -9,16 +9,22 @@ redirect_from:
 ---
 I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models.
 
-**I am on the job market for research scientist and ML engineer positions starting in 2026.** <a href="/files/Resume.pdf">[CV/Resume]</a>
+<div class="job-market-callout">
+  <strong>I am on the job market for research scientist and ML engineer positions starting in 2026.</strong>
+  <a href="/files/Resume.pdf" class="cv-btn">CV / Resume</a>
+</div>
 
 Research Highlights
 ======
-<img src="/images/proxy_spex_image.png" style="max-width: 600px; margin: 10px 0 20px 0;">
+<figure class="research-figure">
+  <img src="/images/proxy_spex_image.png" alt="ProxySPEX pipeline: masked inference, proxy fitting, and Fourier extraction for LLM interpretability">
+  <figcaption>The ProxySPEX pipeline — scalable feature interaction explanations for LLMs</figcaption>
+</figure>
 
 * **Interpretability & Attribution:** I build scalable tools (SPEX, ProxySPEX) that identify important feature interactions in LLMs, achieving up to 20% better faithfulness than prior methods like SHAP, and scaling to 1000+ input features. Check out the <a href="https://github.com/mmschlk/shapiq">shapiq</a> library to try it out!
 * **Signal Processing → ML:** I bring a strong signal processing and information theory perspective to ML problems, which leads to unique algorithmic solutions — including sparse Möbius/Fourier transforms for efficient model explanation.
 * **Faithfulness of Explanations:** I recently led work on evaluating whether <a href="https://arxiv.org/abs/2602.02639">LLM self-explanations are faithful</a> to actual model behavior in collaboration with Noah Siegel from Google Deepmind.
-* **Award-Winning Research:** My work on scheduling in massive random access networks won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE ComSoc & IT Society Joint Paper Award</a>.
+* **Award-Winning Research:** My work on scheduling in massive random access networks won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE ComSoc & IT Society Joint Paper Award</a>. <span class="venue-badge award">Joint Paper Award</span>
 
 Industry Experience
 ======
@@ -56,17 +62,17 @@ Recent News
 Selected Papers
 ======
 
-1. A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior. *Mayne, H.(e), Kang, J.S.(e), Gould, D., Ramchandran, K., Mahdi, A., Siegel, N.Y.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.02639">paper</a>)
+1. A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior. *Mayne, H.(e), Kang, J.S.(e), Gould, D., Ramchandran, K., Mahdi, A., Siegel, N.Y.* <span class="venue-badge preprint">Preprint 2026</span> <span class="paper-links">(<a href="https://arxiv.org/abs/2602.02639">paper</a>)</span>
 
-2. An Odd Estimator for Shapley Values. *Fumagalli, F., Butler, L., Kang, J.S., Ramchandran, K., Witter, R.T.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.01399">paper</a>)
+2. An Odd Estimator for Shapley Values. *Fumagalli, F., Butler, L., Kang, J.S., Ramchandran, K., Witter, R.T.* <span class="venue-badge preprint">Preprint 2026</span> <span class="paper-links">(<a href="https://arxiv.org/abs/2602.01399">paper</a>)</span>
 
-3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E.,  Ramchandran, K., Yu, B. NeurIPS, 2025. (<a href="https://arxiv.org/abs/2505.17495">paper</a>)
+3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E.,  Ramchandran, K., Yu, B. <span class="venue-badge spotlight">NeurIPS 2025 Spotlight</span> <span class="paper-links">(<a href="https://arxiv.org/abs/2505.17495">paper</a>)</span>
 
-4. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E.,  Kang, J.S., Aghazadeh. NeurIPS, 2025 (<a href="https://arxiv.org/abs/2410.19236">paper</a>)
+4. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E.,  Kang, J.S., Aghazadeh. <span class="venue-badge conference">NeurIPS 2025</span> <span class="paper-links">(<a href="https://arxiv.org/abs/2410.19236">paper</a>)</span>
 
-5. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e),Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.*, ICML, 2025. (<a href="https://arxiv.org/abs/2502.13870">paper</a>)
+5. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e),Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.* <span class="venue-badge conference">ICML 2025</span> <span class="paper-links">(<a href="https://arxiv.org/abs/2502.13870">paper</a>)</span>
 
-6. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)*, NeurIPS, 2024. (<a href="https://arxiv.org/abs/2402.02631">paper</a>, <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a>) 
+6. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)* <span class="venue-badge conference">NeurIPS 2024</span> <span class="paper-links">(<a href="https://arxiv.org/abs/2402.02631">paper</a> · <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a>)</span>
 
-7. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran*, NeurIPS FL@FM 2023, TMLR, 2024. (<a href='https://arxiv.org/abs/2301.13336'>paper</a>, <a href='https://www.youtube.com/watch?v=S_DBTIlaodE'>video</a>)
+7. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran* <span class="venue-badge conference">TMLR 2024</span> <span class="paper-links">(<a href='https://arxiv.org/abs/2301.13336'>paper</a> · <a href='https://www.youtube.com/watch?v=S_DBTIlaodE'>video</a>)</span>
 
