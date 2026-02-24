@@ -9,11 +9,11 @@ redirect_from:
 ---
 I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models.
 
-**I am on the job market for research scientist and ML engineer positions starting in 2026.** Feel free to reach out via the links in the sidebar.
+**I am on the job market for research scientist and ML engineer positions starting in 2026.** Feel free to reach out.
 
 Research Highlights
 ======
-* **Interpretability & Attribution:** I build scalable tools (SPEX, ProxySPEX) that identify important feature interactions in LLMs, achieving up to 20% better faithfulness than prior methods like SHAP, and scaling to 1000+ input features.
+* **Interpretability & Attribution:** I build scalable tools (SPEX, ProxySPEX) that identify important feature interactions in LLMs, achieving up to 20% better faithfulness than prior methods like SHAP, and scaling to 1000+ input features. Check out the SHAP-IQ (#TODO link) library to try it out!
 * **Signal Processing → ML:** I bring a strong signal processing and information theory perspective to ML problems, which leads to unique algorithmic solutions — including sparse Möbius/Fourier transforms for efficient model explanation.
 * **Faithfulness of Explanations:** I recently led work on evaluating whether <a href="https://arxiv.org/abs/2602.02639">LLM self-explanations are faithful</a> to actual model behavior in collaboration with Noah Siegel from Google Deepmind.
 * **Award-Winning Research:** My work on scheduling in massive random access networks won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE ComSoc & IT Society Joint Paper Award</a>.
@@ -33,7 +33,7 @@ Education
 Recent News
 ======
 * Talk at ITA 2026 graduation day — won the *sea award*.
-* New preprints: *Adaptive Sparse Möbius Transforms*, *A Positive Case for Faithfulness*, and *An Odd Estimator for Shapley Values*.
+* New preprints: <a href="https://arxiv.org/abs/2602.06246">*Adaptive Sparse Möbius Transforms*</a>, <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a>, and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a>.
 * Papers *ProxySPEX* (Spotlight) and *SHAP-Zero* (Poster) accepted to NeurIPS 2025.
 * *SPEX: Scaling Feature Interaction Explanations for LLMs* accepted to ICML 2025.
 * Presented research on interpreting LLMs at <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Lab</a>.
@@ -49,6 +49,7 @@ Recent News
 </ul>
 </details>
 
+<br>
 
 Selected Papers
 ======
@@ -57,7 +58,7 @@ Selected Papers
 
 2. An Odd Estimator for Shapley Values. *Fumagalli, F., Butler, L., Kang, J.S., Ramchandran, K., Witter, R.T.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.01399">paper</a>)
 
-3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E.,  Ramchandran, K., Yu, B. NeurIPS, 2025. (<a href="https://arxiv.org/abs/2505.17495">paper</a>)*
+3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E.,  Ramchandran, K., Yu, B. NeurIPS, 2025. (<a href="https://arxiv.org/abs/2505.17495">paper</a>)
 
 4. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E.,  Kang, J.S., Aghazadeh. NeurIPS, 2025 (<a href="https://arxiv.org/abs/2410.19236">paper</a>)
 
