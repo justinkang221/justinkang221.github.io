@@ -11,17 +11,18 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 
 * I am a Graduate Student at the University of California, Berkeley, affiliated with the BAIR Lab and supervised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>.
 * Previously, I completed my Master's of Applied Science at The University of Toronto supervised by <a href='https://www.comm.utoronto.ca/~weiyu/'>Prof. Wei Yu</a>.
-* My current research focus is in *attribution* problems: trying to explain which components (input features, training data, etc.) are most significant in the prediction of a model (such as an LLM). I think understanding these problems is critical to building better models that can faithfully explain themselves.
+* My current research focus is in *attribution* problems: trying to explain which components (input features, training data, etc.) are most significant in the prediction of a model (such as an LLM). I think understanding these problems is critical to building better models that can faithfully explain themselves. Recently I've been studying <a href="https://arxiv.org/abs/2602.02639">natural language explanation faithfulness</a> as an extension of this. 
 * I have a strong background in signal processing and information theory, and like to view machine learning problems through that lens, which often leads to unique and exciting solutions.
 * I received my B.A.Sc. from the <a href='https://www.ubc.ca/'>University of British Columbia</a> in <a href="https://www.engphys.ubc.ca/">Engineering Physics</a>.
 
 Recent News
 ======
+* Talk at ITA 2026 graduation day. I won the *sea award* for my talk. 
 * New preprints: *Adaptive Sparse Möbius Transforms for Learning Polynomials*, *A Positive Case for Faithfulness*, and *An Odd Estimator for Shapley Values*.
 * Our papers *ProxySPEX* (Spotlight) and *SHAP-Zero* (Poster) have been accepted to NeurIPS 2025.
-* I'll be joining Suraj Srinivas, Jorge Piazentin Ono and Jared Evans this summer working on Autolabeling and data filtering problems at Bosch AI Research (Paper under preperation).
+* I'll be joining Suraj Srinivas, Jorge Piazentin Ono and Jared Evans this summer working on autolabeling and data filtering problems at Bosch AI Research (Paper under preperation).
 * Excited to present our recent research in interpreting LLMs at the <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Lab</a>.
-* Our paper *SPEX: Scaling Feature Interaction Explanations for LLMs* has been accepted to ICML! SPEX makes it easier to attribute importance in LLMs and other models, helping you interpret your models.
+* Our paper *SPEX: Scaling Feature Interaction Explanations for LLMs* has been accepted to ICML. SPEX makes it easier to attribute importance in LLMs and other models, helping you interpret your models.
 * Our paper *Learning to Understand: Identifying Interactions via the Mobius Transform* has been accepted to NeurIPS!
 * A recent <a href="https://builtin.com/articles/what-is-federated-learning">article about Federated Learning</a> that I was interviewed for.
 * I'm happy to anounce that my paper has won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE Communication Society and Information Theory Society Joint Paper Award</a>.
@@ -45,8 +46,4 @@ Selected Papers
 
 7. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)*, NeurIPS, 2024. (<a href="https://arxiv.org/abs/2402.02631">paper</a>, <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a>) 
 
-8. Learning a 1-Layer Conditional Generative Model in Total Variation. *Ajil Jalal, Justin Singh Kang, Ananya Uppal, Kannan Ramchandran, Eric Price*. NeurIPS 2023. (<a href='https://openreview.net/forum?id=wImYhdu4VF'>paper</a>, <a href='https://nips.cc/virtual/2023/poster/70066'>video</a>, <a href='https://nips.cc/media/PosterPDFs/NeurIPS%202023/70066.png?t=1702321855.5320883'>poster</a>, <a href='https://github.com/basics-lab/learningGenerativeModels'>code</a>)
-
-9. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran*, NeurIPS FL@FM 2023, TMLR, 2024. (<a href='https://arxiv.org/abs/2301.13336'>paper</a>, <a href='https://www.youtube.com/watch?v=S_DBTIlaodE'>video</a>)
-
-10. Efficiently Computing Sparse Fourier Transforms of q-ary Functions. *Justin Singh Kang(e), Y. E. Erginbas(e), A. Aghazadeh and K. Ramchandran*. IEEE ISIT 2023 (<a href='https://ieeexplore.ieee.org/document/10206686'>paper</a>, <a href='https://www.youtube.com/watch?v=_UgRE1iSrzY&t=2s'>video</a>, <a href='https://github.com/basics-lab/qsft'>code</a>)
+8. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran*, NeurIPS FL@FM 2023, TMLR, 2024. (<a href='https://arxiv.org/abs/2301.13336'>paper</a>, <a href='https://www.youtube.com/watch?v=S_DBTIlaodE'>video</a>)
