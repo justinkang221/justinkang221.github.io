@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models. I am an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and have interned with Google, Bosch AI Research, and Intel.
+I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models. I am an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and Berkeley Graduate Fellow, and have interned with Google, Bosch AI Research, and Intel.
 
 <div class="job-market-callout">
   <strong>I am on the job market for research scientist and ML engineer positions starting in 2026.</strong>
@@ -54,7 +54,7 @@ Selected Papers
 
 2. An Odd Estimator for Shapley Values. *Fumagalli, F., Butler, L., Kang, J.S., Ramchandran, K., Witter, R.T.* <span class="venue-badge preprint">Preprint 2026</span> <span class="paper-links"><a href="https://arxiv.org/abs/2602.01399">paper</a></span>
 
-3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E., Ramchandran, K., Yu, B. <span class="venue-badge spotlight">NeurIPS 2025 Spotlight</span> <span class="paper-links"><a href="https://arxiv.org/abs/2505.17495">paper</a></span>
+3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E., Ramchandran, K., Yu, B. <span class="venue-badge spotlight">NeurIPS 2025 Spotlight</span> <span class="paper-links"><a href="https://arxiv.org/abs/2505.17495">paper</a> · <a href="/files/ProxySPEX_Poster.pdf">poster</a></span>
 
 4. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E., Kang, J.S., Aghazadeh. <span class="venue-badge conference">NeurIPS 2025</span> <span class="paper-links"><a href="https://arxiv.org/abs/2410.19236">paper</a></span>
 
