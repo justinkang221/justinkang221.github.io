@@ -72,7 +72,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "Justinsinghkang" # Username for X / Twitter
+  twitter          : "Justinkangs" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -136,7 +136,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter Justinsinghkang
+  username               : &twitter Justinkangs
 facebook:
   username               :
   app_id                 :
