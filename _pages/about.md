@@ -24,7 +24,7 @@ Industry Experience
 ======
 * **Google** — Student Researcher, Cloud Platforms Systems Research Group (Summer 2024)
 * **Bosch AI Research** — Research Intern, working on autolabeling and data filtering (Summer 2025)
-* **Intel** — Hardware Engineering Intern (previously)
+* **Intel** — Non-Volatile Memory Solutions Group, Storage Systems ResearchIntern (previously)
 
 Education
 ======
