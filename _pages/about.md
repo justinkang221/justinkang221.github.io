@@ -9,11 +9,13 @@ redirect_from:
 ---
 I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models.
 
-**I am on the job market for research scientist and ML engineer positions starting in 2026.** Feel free to reach out.
+**I am on the job market for research scientist and ML engineer positions starting in 2026.**
 
 Research Highlights
 ======
-* **Interpretability & Attribution:** I build scalable tools (SPEX, ProxySPEX) that identify important feature interactions in LLMs, achieving up to 20% better faithfulness than prior methods like SHAP, and scaling to 1000+ input features. Check out the SHAP-IQ (#TODO link) library to try it out!
+<img src="/images/proxy_spex_image.png" style="max-width: 600px; margin: 10px 0 20px 0;">
+
+* **Interpretability & Attribution:** I build scalable tools (SPEX, ProxySPEX) that identify important feature interactions in LLMs, achieving up to 20% better faithfulness than prior methods like SHAP, and scaling to 1000+ input features. Check out the <a href="https://github.com/mmschlk/shapiq">shapiq</a> library to try it out!
 * **Signal Processing → ML:** I bring a strong signal processing and information theory perspective to ML problems, which leads to unique algorithmic solutions — including sparse Möbius/Fourier transforms for efficient model explanation.
 * **Faithfulness of Explanations:** I recently led work on evaluating whether <a href="https://arxiv.org/abs/2602.02639">LLM self-explanations are faithful</a> to actual model behavior in collaboration with Noah Siegel from Google Deepmind.
 * **Award-Winning Research:** My work on scheduling in massive random access networks won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE ComSoc & IT Society Joint Paper Award</a>.

@@ -8,3 +8,5 @@ venue: Preprint
 paperurl: 'https://arxiv.org/abs/2602.06246'
 citation: '<a href="https://erginbas.github.io/">Erginbas, Y.E.</a>, Kang, J.S., Polito, E., <a href="https://people.eecs.berkeley.edu/~kannanr/">Ramchandran, K.</a> &quot;Adaptive Sparse Möbius Transforms for Learning Polynomials&quot;. arXiv preprint arXiv:2602.06246, 2026.'
 ---
+
+<img src="/images/sparse_mobius_image.png">
