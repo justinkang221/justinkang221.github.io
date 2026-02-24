@@ -34,7 +34,7 @@ Education
 
 Recent News
 ======
-* Talk at ITA 2026 graduation day — won the *sea award*.
+* Talk at ITA 2026 graduation day — won the *sea award*. (<a href="/files/ITA 2026.pdf">slides</a>)
 * New preprints: <a href="https://arxiv.org/abs/2602.06246">*Adaptive Sparse Möbius Transforms*</a>, <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a>, and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a>.
 * Papers *ProxySPEX* (Spotlight) and *SHAP-Zero* (Poster) accepted to NeurIPS 2025.
 * *SPEX: Scaling Feature Interaction Explanations for LLMs* accepted to ICML 2025.
