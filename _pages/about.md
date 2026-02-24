@@ -56,7 +56,7 @@ Recent News
 Selected Papers
 ======
 
-1. A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior. *Mayne, H., Kang, J.S., Gould, D., Ramchandran, K., Mahdi, A., Siegel, N.Y.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.02639">paper</a>)
+1. A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior. *Mayne, H.(e), Kang, J.S.(e), Gould, D., Ramchandran, K., Mahdi, A., Siegel, N.Y.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.02639">paper</a>)
 
 2. An Odd Estimator for Shapley Values. *Fumagalli, F., Butler, L., Kang, J.S., Ramchandran, K., Witter, R.T.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.01399">paper</a>)
 
