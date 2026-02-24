@@ -54,15 +54,15 @@ Selected Papers
 
 2. An Odd Estimator for Shapley Values. *Fumagalli, F., Butler, L., Kang, J.S., Ramchandran, K., Witter, R.T.* <span class="venue-badge preprint">Preprint 2026</span> <span class="paper-links"><a href="https://arxiv.org/abs/2602.01399">paper</a></span>
 
-3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E., Ramchandran, K., Yu, B. <span class="venue-badge spotlight">NeurIPS 2025 Spotlight</span> <span class="paper-links"><a href="https://arxiv.org/abs/2505.17495">paper</a> · <a href="/files/ProxySPEX_Poster.pdf">poster</a></span>
+3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E., Ramchandran, K., Yu, B. <span class="venue-badge spotlight">NeurIPS 2025 Spotlight</span> <span class="paper-links"><a href="https://arxiv.org/abs/2505.17495">paper</a> <a href="/files/ProxySPEX_Poster.pdf">poster</a></span>
 
 4. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E., Kang, J.S., Aghazadeh. <span class="venue-badge conference">NeurIPS 2025</span> <span class="paper-links"><a href="https://arxiv.org/abs/2410.19236">paper</a></span>
 
 5. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e), Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.* <span class="venue-badge conference">ICML 2025</span> <span class="paper-links"><a href="https://arxiv.org/abs/2502.13870">paper</a></span>
 
-6. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)* <span class="venue-badge conference">NeurIPS 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2402.02631">paper</a> · <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a></span>
+6. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)* <span class="venue-badge conference">NeurIPS 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2402.02631">paper</a> <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a></span>
 
-7. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran* <span class="venue-badge conference">TMLR 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2301.13336">paper</a> · <a href="https://www.youtube.com/watch?v=S_DBTIlaodE">video</a></span>
+7. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran* <span class="venue-badge conference">TMLR 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2301.13336">paper</a> <a href="https://www.youtube.com/watch?v=S_DBTIlaodE">video</a></span>
 
 Industry Experience
 ======
