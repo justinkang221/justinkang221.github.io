@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models.
 
-**I am on the job market for research scientist and ML engineer positions starting in 2026.**
+**I am on the job market for research scientist and ML engineer positions starting in 2026.** <a href="/files/Resume.pdf">[CV/Resume]</a>
 
 Research Highlights
 ======
