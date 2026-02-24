@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research focuses on developing interpretable machine learning, with an emphasis on methods that explain the decision-making processes of foundation models. Recently, I have pursued a data-centric perspective, building scalable feature attribution and data valuation tools like <a href="https://arxiv.org/abs/2502.13870">SPEX</a> and <a href="https://arxiv.org/abs/2505.17495">ProxySPEX</a>, and evaluating whether <a href="https://arxiv.org/abs/2602.02639">LLM self-explanations are faithful</a> to actual model behavior.
-
-I am a PhD candidate in EECS at UC Berkeley, affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Kannan Ramchandran</a>. I am an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and have interned with Google, Bosch AI Research, and Intel.
+I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models.
 
 <div class="job-market-callout">
   <strong>I am on the job market for research scientist and ML engineer positions starting in 2026.</strong>
@@ -27,18 +25,6 @@ Research Highlights
 * **Signal Processing → ML:** I bring a strong signal processing and information theory perspective to ML problems, which leads to unique algorithmic solutions — including sparse Möbius/Fourier transforms for efficient model explanation.
 * **Faithfulness of Explanations:** I recently led work on evaluating whether <a href="https://arxiv.org/abs/2602.02639">LLM self-explanations are faithful</a> to actual model behavior in collaboration with Noah Siegel from Google Deepmind.
 * **Award-Winning Research:** My work on scheduling in massive random access networks won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE ComSoc & IT Society Joint Paper Award</a>. <span class="venue-badge award">Joint Paper Award</span>
-
-Industry Experience
-======
-* **Google** — Student Researcher, Cloud Platforms Systems Research Group (Summer 2024)
-* **Bosch AI Research** — Research Intern, working on autolabeling and data filtering (Summer 2025)
-* **Intel** — Non-Volatile Memory Solutions Group, Storage Systems Research Intern (previously)
-
-Education
-======
-* **PhD** in EECS, UC Berkeley (in progress)
-* **M.A.Sc.** in ECE, University of Toronto — advised by <a href='https://www.comm.utoronto.ca/~weiyu/'>Prof. Wei Yu</a>
-* **B.A.Sc.** in <a href="https://www.engphys.ubc.ca/">Engineering Physics</a>, University of British Columbia
 
 Recent News
 ======
@@ -77,3 +63,15 @@ Selected Papers
 6. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)* <span class="venue-badge conference">NeurIPS 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2402.02631">paper</a> · <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a></span>
 
 7. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran* <span class="venue-badge conference">TMLR 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2301.13336">paper</a> · <a href="https://www.youtube.com/watch?v=S_DBTIlaodE">video</a></span>
+
+Industry Experience
+======
+* **Google** — Student Researcher, Cloud Platforms Systems Research Group (Summer 2024)
+* **Bosch AI Research** — Research Intern, working on autolabeling and data filtering (Summer 2025)
+* **Intel** — Non-Volatile Memory Solutions Group, Storage Systems Research Intern (previously)
+
+Education
+======
+* **PhD** in EECS, UC Berkeley (in progress)
+* **M.A.Sc.** in ECE, University of Toronto — advised by <a href='https://www.comm.utoronto.ca/~weiyu/'>Prof. Wei Yu</a>
+* **B.A.Sc.** in <a href="https://www.engphys.ubc.ca/">Engineering Physics</a>, University of British Columbia
