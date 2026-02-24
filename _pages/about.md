@@ -17,6 +17,7 @@ Welcome to my website. You can find my <a href='publications'>Publications</a>, 
 
 Recent News
 ======
+* New preprints: *Adaptive Sparse Möbius Transforms for Learning Polynomials*, *A Positive Case for Faithfulness*, and *An Odd Estimator for Shapley Values*.
 * Our papers *ProxySPEX* (Spotlight) and *SHAP-Zero* (Poster) have been accepted to NeurIPS 2025.
 * I'll be joining Suraj Srinivas, Jorge Piazentin Ono and Jared Evans this summer working on Autolabeling and data filtering problems at Bosch AI Research (Paper under preperation).
 * Excited to present our recent research in interpreting LLMs at the <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Lab</a>.
@@ -30,16 +31,22 @@ Recent News
 Selected Papers
 ======
 
-1. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E.,  Ramchandran, K., Yu, B. NeurIPS, 2025. (<a href="https://arxiv.org/abs/2505.17495">paper</a>)*
+1. Adaptive Sparse Möbius Transforms for Learning Polynomials. *Erginbas, Y.E., Kang, J.S., Polito, E., Ramchandran, K.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.06246">paper</a>)
 
-2. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E.,  Kang, J.S., Aghazadeh. NeurIPS, 2025 (<a href="https://arxiv.org/abs/2410.19236">paper</a>)
+2. A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior. *Mayne, H., Kang, J.S., Gould, D., Ramchandran, K., Mahdi, A., Siegel, N.Y.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.02639">paper</a>)
 
-3. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e),Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.*, ICML, 2025. (<a href="https://arxiv.org/abs/2502.13870">paper</a>)
+3. An Odd Estimator for Shapley Values. *Fumagalli, F., Butler, L., Kang, J.S., Ramchandran, K., Witter, R.T.* Preprint, 2026. (<a href="https://arxiv.org/abs/2602.01399">paper</a>)
 
-4. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)*, NeurIPS, 2024. (<a href="https://arxiv.org/abs/2402.02631">paper</a>, <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a>) 
+4. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs. Butler, L(e), Agarwal, A.(e), Kang, J.(e), Erginbas Y.E.,  Ramchandran, K., Yu, B. NeurIPS, 2025. (<a href="https://arxiv.org/abs/2505.17495">paper</a>)*
 
-5. Learning a 1-Layer Conditional Generative Model in Total Variation. *Ajil Jalal, Justin Singh Kang, Ananya Uppal, Kannan Ramchandran, Eric Price*. NeurIPS 2023. (<a href='https://openreview.net/forum?id=wImYhdu4VF'>paper</a>, <a href='https://nips.cc/virtual/2023/poster/70066'>video</a>, <a href='https://nips.cc/media/PosterPDFs/NeurIPS%202023/70066.png?t=1702321855.5320883'>poster</a>, <a href='https://github.com/basics-lab/learningGenerativeModels'>code</a>)
+5. SHAP-Zero explains biological sequence models with near-zero marginal cost for future queries. Tsui, D, Musharaf, A, Erginbas, Y.E.,  Kang, J.S., Aghazadeh. NeurIPS, 2025 (<a href="https://arxiv.org/abs/2410.19236">paper</a>)
 
-6. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran*, NeurIPS FL@FM 2023, TMLR, 2024. (<a href='https://arxiv.org/abs/2301.13336'>paper</a>, <a href='https://www.youtube.com/watch?v=S_DBTIlaodE'>video</a>)
+6. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e),Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.*, ICML, 2025. (<a href="https://arxiv.org/abs/2502.13870">paper</a>)
 
-7. Efficiently Computing Sparse Fourier Transforms of q-ary Functions. *Justin Singh Kang(e), Y. E. Erginbas(e), A. Aghazadeh and K. Ramchandran*. IEEE ISIT 2023 (<a href='https://ieeexplore.ieee.org/document/10206686'>paper</a>, <a href='https://www.youtube.com/watch?v=_UgRE1iSrzY&t=2s'>video</a>, <a href='https://github.com/basics-lab/qsft'>code</a>)
+7. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)*, NeurIPS, 2024. (<a href="https://arxiv.org/abs/2402.02631">paper</a>, <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a>) 
+
+8. Learning a 1-Layer Conditional Generative Model in Total Variation. *Ajil Jalal, Justin Singh Kang, Ananya Uppal, Kannan Ramchandran, Eric Price*. NeurIPS 2023. (<a href='https://openreview.net/forum?id=wImYhdu4VF'>paper</a>, <a href='https://nips.cc/virtual/2023/poster/70066'>video</a>, <a href='https://nips.cc/media/PosterPDFs/NeurIPS%202023/70066.png?t=1702321855.5320883'>poster</a>, <a href='https://github.com/basics-lab/learningGenerativeModels'>code</a>)
+
+9. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran*, NeurIPS FL@FM 2023, TMLR, 2024. (<a href='https://arxiv.org/abs/2301.13336'>paper</a>, <a href='https://www.youtube.com/watch?v=S_DBTIlaodE'>video</a>)
+
+10. Efficiently Computing Sparse Fourier Transforms of q-ary Functions. *Justin Singh Kang(e), Y. E. Erginbas(e), A. Aghazadeh and K. Ramchandran*. IEEE ISIT 2023 (<a href='https://ieeexplore.ieee.org/document/10206686'>paper</a>, <a href='https://www.youtube.com/watch?v=_UgRE1iSrzY&t=2s'>video</a>, <a href='https://github.com/basics-lab/qsft'>code</a>)
