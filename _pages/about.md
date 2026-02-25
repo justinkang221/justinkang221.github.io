@@ -60,7 +60,7 @@ Selected Papers
 
 5. SPEX: Scaling Feature Interaction Explanations for LLMs. *Kang, J.S(e)., Butler, L.(e), Agarwal, A.(e), Erginbas Y.E., Pedarsani, R., Ramchandran, K., Yu, B.* <br><span class="venue-badge conference">ICML 2025</span> <span class="paper-links"><a href="https://arxiv.org/abs/2502.13870">paper</a> <a href="/files/SPEX_Poster.pdf">poster</a> <a href="https://www.youtube.com/watch?v=cV5UWAx8TPg">video</a></span>
 
-6. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)* <br><span class="venue-badge conference">NeurIPS 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2402.02631">paper</a> <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a></span>
+6. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)* <br><span class="venue-badge conference">NeurIPS 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2402.02631">paper</a> <a href="/files/Learning_to_understand_poster.pdf">poster</a> <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a></span>
 
 7. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran* <br><span class="venue-badge conference">TMLR 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2301.13336">paper</a> <a href="https://www.youtube.com/watch?v=S_DBTIlaodE">video</a></span>
 
