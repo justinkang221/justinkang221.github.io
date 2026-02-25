@@ -135,6 +135,13 @@
   line-height: 1.55;
 }
 
+/* ----- Equal Contribution Marker ----- */
+.equal-contrib {
+  color: #df4a4a;
+  /* Vibrant red */
+  font-weight: bold;
+}
+
 /* ----- Responsive ----- */
 @media (max-width: 600px) {
   .job-market-callout {
