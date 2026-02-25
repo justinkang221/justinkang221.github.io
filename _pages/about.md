@@ -49,6 +49,7 @@ Recent News
 
 Selected Papers
 ======
+<small>(\* denotes equal contribution)</small>
 
 1. A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior.<br>*Mayne, H.\*, Kang, J.S.\*, Gould, D., Ramchandran, K., Mahdi, A., Siegel, N.Y.* <br><span class="venue-badge preprint">Preprint 2026</span> <span class="paper-links"><a href="https://arxiv.org/abs/2602.02639">paper</a></span>
 
