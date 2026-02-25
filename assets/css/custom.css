@@ -93,6 +93,11 @@
   color: #856404;
 }
 
+.venue-badge.workshop {
+  background: #f3e8fd;
+  color: #5d2590;
+}
+
 /* ----- Paper Link Buttons ----- */
 .paper-links a {
   display: inline-block;

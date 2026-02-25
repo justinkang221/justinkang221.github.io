@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models. I am an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and Berkeley Graduate Fellow, and have interned with Google, Bosch AI Research, and Intel.
+I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models. I am an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and Berkeley Graduate Fellow, and have interned with Google Research, Bosch AI Research, and Intel.
 
 <div class="job-market-callout">
   <strong>I am on the job market for research scientist and ML engineer positions starting in 2026.</strong>
@@ -62,7 +62,7 @@ Selected Papers
 
 6. Learning to Understand: Identifying Interactions via the Mobius Transform. *Kang, J.S., Erginbas, Y.E., Butler, L., Pedarsani, R., Ramchandran, K. (2024)* <br><span class="venue-badge conference">NeurIPS 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2402.02631">paper</a> <a href="/files/Learning_to_understand_poster.pdf">poster</a> <a href="https://www.youtube.com/watch?v=5-OHk25H1mE">video</a></span>
 
-7. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran* <br><span class="venue-badge conference">TMLR 2024</span> <span class="paper-links"><a href="https://arxiv.org/abs/2301.13336">paper</a> <a href="https://www.youtube.com/watch?v=S_DBTIlaodE">video</a></span>
+7. The Fair Value of Data Under Heterogeneous Privacy Constraints in Federated Learning. *Justin Singh Kang, Ramtin Pedarsani and Kannan Ramchandran* <br><span class="venue-badge conference">TMLR 2024</span> <span class="venue-badge workshop">NeurIPS FL@FM 2023 Workshop</span> <span class="paper-links"><a href="https://arxiv.org/abs/2301.13336">paper</a> <a href="https://www.youtube.com/watch?v=S_DBTIlaodE">video</a></span>
 
 Industry Experience
 ======
