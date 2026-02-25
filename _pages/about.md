@@ -33,6 +33,8 @@ News
 </ul>
 </details>
 
+<br>
+
 Research Highlights
 ======
 <figure class="research-figure">
