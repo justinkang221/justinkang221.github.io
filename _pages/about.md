@@ -19,12 +19,13 @@ News
 * Talk at ITA 2026 graduation day — won the *sea award*. (<a href="/files/ITA 2026.pdf">slides</a>)
 * New preprints: <a href="https://arxiv.org/abs/2602.06246">*Adaptive Sparse Möbius Transforms*</a>, <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a>, and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a>.
 * Papers *ProxySPEX* (Spotlight) and *SHAP-Zero* (Poster) accepted to NeurIPS 2025.
-* *SPEX: Scaling Feature Interaction Explanations for LLMs* accepted to ICML 2025.
-* Presented research on interpreting LLMs at <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Lab</a>.
+* Prof. Bin Yu presented our work at the Flatiron Institute <a href="https://www.simonsfoundation.org/video/bin-yu-understanding-deep-learning-models-via-interaction-importance/">Understanding Deep Learning Models via Interaction Importance</a>.
 
 <details>
 <summary><strong>Older Announcements</strong></summary>
 <ul>
+<li>*SPEX: Scaling Feature Interaction Explanations for LLMs* accepted to ICML 2025.</li>
+<li>Presented research on interpreting LLMs at <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Lab</a>.</li>
 <li>Joining Bosch AI Research for summer 2025, working on autolabeling and data filtering with Suraj Srinivas, Jorge Piazentin Ono, and Jared Evans.</li>
 <li><em>Learning to Understand: Identifying Interactions via the Mobius Transform</em> accepted to NeurIPS 2024.</li>
 <li>Interviewed for a <a href="https://builtin.com/articles/what-is-federated-learning">Built In article on Federated Learning</a>.</li>
