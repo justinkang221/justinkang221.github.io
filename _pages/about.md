@@ -17,6 +17,7 @@ I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bai
 News
 ======
 * Talk at ITA 2026 graduation day — won the *sea award*. (<a href="/files/ITA 2026.pdf">slides</a>)
+* I was selected as a 2026 <a href="https://www.heronsec.ai/">Heron AI Security Fellow</a>.
 * New preprints: <a href="https://arxiv.org/abs/2602.06246">*Adaptive Sparse Möbius Transforms*</a>, <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a>, and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a>.
 * Papers *ProxySPEX* (Spotlight) and *SHAP-Zero* (Poster) accepted to NeurIPS 2025.
 * Prof. Bin Yu presented our work at the Flatiron Institute <a href="https://www.simonsfoundation.org/video/bin-yu-understanding-deep-learning-models-via-interaction-importance/">Understanding Deep Learning Models via Interaction Importance</a>.
@@ -24,7 +25,7 @@ News
 <details>
 <summary><strong>Older Announcements</strong></summary>
 <ul>
-<li>SPEX: Scaling Feature Interaction Explanations for LLMs accepted to ICML 2025.</li>
+<li><em>SPEX: Scaling Feature Interaction Explanations for LLMs</em> accepted to ICML 2025.</li>
 <li>Presented research on interpreting LLMs at <a href="https://arl.devcom.army.mil/">DEVCOM Army Research Lab</a>.</li>
 <li>Joining Bosch AI Research for summer 2025, working on autolabeling and data filtering with Suraj Srinivas, Jorge Piazentin Ono, and Jared Evans.</li>
 <li><em>Learning to Understand: Identifying Interactions via the Mobius Transform</em> accepted to NeurIPS 2024.</li>
