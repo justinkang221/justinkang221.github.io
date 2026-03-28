@@ -26,7 +26,7 @@ My core workflow was built around a **ralph loop** — a recurring agent loop th
 
 The breakthrough came from a manual idea: **iterated Dinkelbach iteration**. Rather than directly optimizing the fractional objective $C = L_2^2 / (L_1 \cdot L_\infty)$, Dinkelbach linearization reformulates each step as maximizing $L_2^2 - \lambda \cdot L_1 \cdot L_\infty$, where $\lambda$ is the current best ratio. This fundamentally reshapes the loss landscape at every iteration, opening up descent directions that the original parameterization can't see.
 
-Paired with a softplus relaxation and simulated annealing acceptance, this pipeline vaulted our score to  **#1 on the leaderboard** — $C = 0.96199$ at $n = 100\text{k}$ and $C = 0.96272$ at $n = 1.6\text{M}$ (beating the SOTA on this as of Feb 2026).
+Paired with a softplus relaxation and simulated annealing acceptance, this pipeline vaulted our score to  **#1 on the leaderboard** — $C = 0.96199$ at $n = 100\text{k}$ and $C = 0.96272$ at $n = 1.6\text{M}$ (beating the SOTA from Feb 2026).
 
 The lesson: agents are excellent at executing and iterating on a well-defined optimization pipeline, but humans, for now, can still contribute meaningful insights.
 
