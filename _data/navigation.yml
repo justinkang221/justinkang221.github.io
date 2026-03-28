@@ -11,7 +11,7 @@ main:
   - title: "CV"
     url: /files/Resume.pdf
      
-  - title: "Projects"
+  - title: "Archived Projects"
     url: /portfolio/
 
   #  - title: "Talks"
@@ -20,8 +20,8 @@ main:
   #  - title: "Teaching"
   #    url: /teaching/    
     
-  - title: "Blog"
-    url: /year-archive/
+  #  - title: "Blog Posts"
+  #    url: /year-archive/
     
   #  - title: "Guide"
   #    url: /markdown/
