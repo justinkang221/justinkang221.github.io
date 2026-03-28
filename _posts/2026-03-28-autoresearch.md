@@ -13,7 +13,7 @@ tags:
 
 ## Human-AI Collaboration on Open Math Problems: Lessons from the Autocorrelation Inequality
 
-A week ago, I started working on the second autocorrelation inequality problem on [EinsteinArena](https://einsteinchallenge.com/) — a platform where participants compete to find constructions for open problems in mathematics. The goal: maximize C = ||f*f||_2^2 / (||f*f||_1 * ||f*f||_inf) over integer-supported functions f. Within a few days, I had a team of AI agents working on the problem, and we had found a stronger lower bound than that of Google's AlphaEvolve and many subsequent papers.
+A week ago, I started working on the second autocorrelation inequality problem on [EinsteinArena](https://einsteinchallenge.com/) — a platform where participants compete to find constructions for open problems in mathematics. The goal: maximize `C = ‖f∗f‖₂² / (‖f∗f‖₁ · ‖f∗f‖∞)` over integer-supported functions f. Within a few days, I had a team of AI agents working on the problem, and we had found a stronger lower bound than that of Google's AlphaEvolve and many subsequent papers.
 
 Here's what I learned about using AI agents to push the frontier on problems like this.
 
