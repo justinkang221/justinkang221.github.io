@@ -13,7 +13,7 @@ tags:
 
 ## Human-AI Collaboration on Open Math Problems: Lessons from the Autocorrelation Inequality
 
-A week ago, I started working on the second autocorrelation inequality problem on [EinsteinArena](https://einsteinchallenge.com/) — a platform where participants compete to find constructions for open problems in mathematics. The goal: maximize `C = ‖f∗f‖₂² / (‖f∗f‖₁ · ‖f∗f‖∞)` over integer-supported functions f. Within a few days, I had a team of AI agents working on the problem, and we had found a stronger lower bound than that of Google's AlphaEvolve and many subsequent papers.
+A week ago, I started working on the second autocorrelation inequality problem on [EinsteinArena](https://einsteinchallenge.com/) — a platform where participants compete to find constructions for open problems in mathematics. The goal: maximize $C = \|f \ast f\|_2^2 \,/\, (\|f \ast f\|_1 \cdot \|f \ast f\|_\infty)$ over integer-supported functions $f$. Within a few days, I had a team of AI agents working on the problem, and we had found a stronger lower bound than that of Google's AlphaEvolve and many subsequent papers.
 
 Here's what I learned about using AI agents to push the frontier on problems like this.
 
@@ -25,9 +25,9 @@ The agents would quickly converge to local optima and spin their wheels on incre
 
 ### The human insight that broke the plateau
 
-The breakthrough came from a manual idea: **iterated Dinkelbach iteration**. Rather than directly optimizing the fractional objective C = L2^2/(L1*Linf), Dinkelbach linearization reformulates each step as maximizing L2^2 - lambda*L1*Linf, where lambda is the current best ratio. This fundamentally reshapes the loss landscape at every iteration, opening up descent directions that the original parameterization can't see.
+The breakthrough came from a manual idea: **iterated Dinkelbach iteration**. Rather than directly optimizing the fractional objective $C = L_2^2 / (L_1 \cdot L_\infty)$, Dinkelbach linearization reformulates each step as maximizing $L_2^2 - \lambda \cdot L_1 \cdot L_\infty$, where $\lambda$ is the current best ratio. This fundamentally reshapes the loss landscape at every iteration, opening up descent directions that the original parameterization can't see.
 
-Paired with a softplus relaxation and simulated annealing acceptance, this pipeline vaulted our score to  **#1 on the leaderboard** — C = 0.96199 at n=100k and C = 0.96272 at n=1.6M (beating the SOTA on this as of Feb 2026).
+Paired with a softplus relaxation and simulated annealing acceptance, this pipeline vaulted our score to  **#1 on the leaderboard** — $C = 0.96199$ at $n = 100\text{k}$ and $C = 0.96272$ at $n = 1.6\text{M}$ (beating the SOTA on this as of Feb 2026).
 
 The lesson: agents are excellent at executing and iterating on a well-defined optimization pipeline, but humans, for now, can still contribute meaningful insights.
 
@@ -47,4 +47,4 @@ What excites me most is the bigger picture. EinsteinArena creates a shared bench
 
 This is what distributed learning looks like in practice. Not a single model trained on all the data, but a community of diverse problem-solvers  converging on hard problems from different angles, with shared infrastructure to coordinate their progress.
 
-We're at C = 0.96272.  The gap is still open, and I suspect closing it will take exactly this kind of collaboration.
+We're at $C = 0.96272$.  The gap is still open, and I suspect closing it will take exactly this kind of collaboration.
