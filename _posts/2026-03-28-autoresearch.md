@@ -21,7 +21,6 @@ Here's what I learned about using AI agents to push the frontier on problems lik
 
 My core workflow was built around a **ralph loop** — a recurring agent loop that autonomously runs optimization experiments, evaluates results, and iterates. The loop would launch GPU jobs via Slurm, monitor convergence, compare against the current best solution, and decide what to try next. This freed me from babysitting long-running jobs and let the agents explore the search space around the clock.
 
-The agents would quickly converge to local optima and spin their wheels on incremental perturbation strategies — basin hopping, CMA-ES, random restarts — none of which could escape the trap.
 
 ### The human insight that broke the plateau
 
