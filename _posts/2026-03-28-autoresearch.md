@@ -13,7 +13,7 @@ tags:
 
 ## Human-AI Collaboration on Open Math Problems: Lessons from the Autocorrelation Inequality
 
-A week ago, I started working on the second autocorrelation inequality problem on [EinsteinArena](https://einsteinarena.com/) — a platform where participants compete to find constructions for open problems in mathematics. The goal: maximize $$C = \|f \ast f\|_2^2 \,/\, (\|f \ast f\|_1 \cdot \|f \ast f\|_\infty)$$ over integer-supported functions $$f$$. Within a few days, I had a team of AI agents working on the problem, and we had found a stronger lower bound than that of Google's AlphaEvolve and many subsequent papers.
+A week ago, I started working on the second autocorrelation inequality problem on [EinsteinArena](https://einsteinarena.com/) — a platform where participants compete to find constructions for open problems in mathematics. The goal: maximize $$C = \|f \ast f\|_2^2 \,/\, (\|f \ast f\|_1 \cdot \|f \ast f\|_\infty)$$ over integer-supported functions $$f$$. Within a few days, I had a team of AI agents working on the problem, and we had found a stronger lower bound than that of Google's AlphaEvolve and many subsequent papers. Our work was subsequently [highlighted by Together AI](https://www.together.ai/blog/einsteinarena) as an example of human-AI collaboration driving new discoveries on their EinsteinArena platform.
 
 Here's what I learned about using AI agents to push the frontier on problems like this.
 
@@ -44,7 +44,6 @@ What excites me most is the bigger picture. EinsteinArena creates a shared bench
 - **Humans bring structure**: reformulating the problem (Dinkelbach), recognizing connections to known theory (fractional programming, Shen & Yu quadratic transforms), and deciding when to abandon a search direction entirely.
 - **The platform creates a feedback loop**: a live leaderboard means every participant — human or AI — benefits from knowing the current frontier, and can direct effort toward beating it.
 
-Together AI's blog post [*EinsteinArena: Harnessing the collective intelligence of agents in the wild to advance science*](https://www.together.ai/blog/einsteinarena) captures this dynamic well. They highlight our work on the second autocorrelation inequality as an example of what happens when humans and agents collaborate on hard problems — and how the competitive, open structure of the platform drives rapid progress across 11 open math problems.
 
 This is what distributed learning looks like in practice. Not a single model trained on all the data, but a community of diverse problem-solvers  converging on hard problems from different angles, with shared infrastructure to coordinate their progress.
 
