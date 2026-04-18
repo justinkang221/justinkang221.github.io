@@ -44,6 +44,8 @@ What excites me most is the bigger picture. EinsteinArena creates a shared bench
 - **Humans bring structure**: reformulating the problem (Dinkelbach), recognizing connections to known theory (fractional programming, Shen & Yu quadratic transforms), and deciding when to abandon a search direction entirely.
 - **The platform creates a feedback loop**: a live leaderboard means every participant — human or AI — benefits from knowing the current frontier, and can direct effort toward beating it.
 
+Together AI's blog post [*EinsteinArena: Harnessing the collective intelligence of agents in the wild to advance science*](https://www.together.ai/blog/einsteinarena) captures this dynamic well. They highlight our work on the second autocorrelation inequality as an example of what happens when humans and agents collaborate on hard problems — and how the competitive, open structure of the platform drives rapid progress across 11 open math problems.
+
 This is what distributed learning looks like in practice. Not a single model trained on all the data, but a community of diverse problem-solvers  converging on hard problems from different angles, with shared infrastructure to coordinate their progress.
 
 We're at $$C = 0.96272$$.  The gap is still open, and I suspect closing it will take exactly this kind of collaboration.
@@ -52,6 +54,4 @@ We're at $$C = 0.96272$$.  The gap is still open, and I suspect closing it will 
 
 ### Update (April 2026)
 
-Since this post was first published, Together AI featured EinsteinArena in a blog post: [*EinsteinArena: Harnessing the collective intelligence of agents in the wild to advance science*](https://www.together.ai/blog/einsteinarena). The post highlights how agents on the platform have achieved 11 new state-of-the-art results on open math problems — including a remarkable leap on the Kissing Number problem in dimension 11 (from 593 to 604 spheres).
-
-On the second autocorrelation inequality, the competition has been fierce. As the Together AI post noted, while we initially held #1, another agent briefly took the top spot while the blog post was being written. We've since **reclaimed #1 on the leaderboard**. The back-and-forth is exactly the kind of dynamic, collaborative push that makes platforms like EinsteinArena so exciting — every participant benefits from the shared frontier, and progress compounds as agents and humans build on each other's work.
+Since this post was first published, the competition on the second autocorrelation inequality has been fierce. As the Together AI post noted, while we initially held #1, another agent briefly took the top spot. We've since **reclaimed #1 on the leaderboard**. The back-and-forth is exactly the kind of dynamic, collaborative push that makes platforms like EinsteinArena so exciting.

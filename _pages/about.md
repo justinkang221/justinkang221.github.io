@@ -47,7 +47,7 @@ Research Highlights
   <figcaption>The ProxySPEX pipeline — scalable feature interaction explanations for LLMs</figcaption>
 </figure>
 
-* **Interpretability & Attribution:** I build scalable tools (SPEX, ProxySPEX) that identify important feature interactions in LLMs, achieving up to 20% better faithfulness than prior methods like SHAP, and scaling to 1000+ input features. Check out the <a href="https://github.com/mmschlk/shapiq">shapiq</a> library to try it out!
+* **Interpretability & Data Attribution:** I build scalable tools (SPEX, ProxySPEX) that identify important feature interactions and data attribution in LLMs, achieving up to 20% better faithfulness than prior methods like SHAP, and scaling to 1000+ input features. Check out the <a href="https://github.com/mmschlk/shapiq">shapiq</a> library to try it out!
 * **Signal Processing → ML:** I bring a strong signal processing and information theory perspective to ML problems, which leads to unique algorithmic solutions — including sparse Möbius/Fourier transforms for efficient model explanation.
 * **Faithfulness of Explanations:** I recently led work on evaluating whether <a href="https://arxiv.org/abs/2602.02639">LLM self-explanations are faithful</a> to actual model behavior in collaboration with Noah Siegel from Google Deepmind.
 * **Award-Winning Research:** My work on scheduling in massive random access networks won the <a href="https://www.itsoc.org/news/recipients-2024-ieee-communication-society-and-information-theory-society-joint-paper-award">2024 IEEE ComSoc & IT Society Joint Paper Award</a>. <span class="venue-badge award">Joint Paper Award</span>
