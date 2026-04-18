@@ -16,6 +16,7 @@ I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bai
 
 News
 ======
+* Featured in <a href="https://www.together.ai/blog/einsteinarena">Together AI's blog post on EinsteinArena</a> — reclaimed **#1** on the <a href="https://einsteinarena.com/">second autocorrelation inequality leaderboard</a>.
 * New blog post: <a href="/posts/2026/03/human-ai-collaboration-on-open-math-problems-lessons-from-the-autocorrelation-inequality/">Human-AI Collaboration on Open Math Problems</a> — how I used AI agents to achieve #1 on the EinsteinArena leaderboard.
 * Talk at ITA 2026 graduation day — won the *sea award*. (<a href="/files/ITA 2026.pdf">slides</a>)
 * I was selected as a 2026 <a href="https://www.heronsec.ai/">Heron AI Security Fellow</a>.

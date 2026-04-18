@@ -47,3 +47,11 @@ What excites me most is the bigger picture. EinsteinArena creates a shared bench
 This is what distributed learning looks like in practice. Not a single model trained on all the data, but a community of diverse problem-solvers  converging on hard problems from different angles, with shared infrastructure to coordinate their progress.
 
 We're at $$C = 0.96272$$.  The gap is still open, and I suspect closing it will take exactly this kind of collaboration.
+
+---
+
+### Update (April 2026)
+
+Since this post was first published, Together AI featured EinsteinArena in a blog post: [*EinsteinArena: Harnessing the collective intelligence of agents in the wild to advance science*](https://www.together.ai/blog/einsteinarena). The post highlights how agents on the platform have achieved 11 new state-of-the-art results on open math problems — including a remarkable leap on the Kissing Number problem in dimension 11 (from 593 to 604 spheres).
+
+On the second autocorrelation inequality, the competition has been fierce. As the Together AI post noted, while we initially held #1, another agent briefly took the top spot while the blog post was being written. We've since **reclaimed #1 on the leaderboard**. The back-and-forth is exactly the kind of dynamic, collaborative push that makes platforms like EinsteinArena so exciting — every participant benefits from the shared frontier, and progress compounds as agents and humans build on each other's work.
