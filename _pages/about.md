@@ -16,12 +16,13 @@ I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bai
 
 News
 ======
+* Papers <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a> accepted to **ICML 2026**.
+* <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> presented at the **ICLR 2026 Trustworthy AI** conference.
 * Featured in <a href="https://www.together.ai/blog/einsteinarena">Together AI's blog post on EinsteinArena</a> — reclaimed **#1** on the <a href="https://einsteinarena.com/">second autocorrelation inequality leaderboard</a>.
 * New blog post: <a href="/posts/2026/03/human-ai-collaboration-on-open-math-problems-lessons-from-the-autocorrelation-inequality/">Human-AI Collaboration on Open Math Problems</a> — how I used AI agents to achieve #1 on the EinsteinArena leaderboard.
 * BAIR blog post: <a href="https://bair.berkeley.edu/blog/2026/03/13/spex/">Identifying Interactions at Scale for LLMs</a> — an overview of our SPEX line of work on scalable feature interaction explanations.
 * Talk at ITA 2026 graduation day — won the *sea award*. (<a href="/files/ITA 2026.pdf">slides</a>)
 * I was selected as a 2026 <a href="https://www.heronsec.ai/">Heron AI Security Fellow</a>.
-* New preprints: <a href="https://arxiv.org/abs/2602.06246">*Adaptive Sparse Möbius Transforms*</a>, <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a>, and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a>.
 * Papers *ProxySPEX* (Spotlight) and *SHAP-Zero* (Poster) accepted to NeurIPS 2025.
 * Prof. Bin Yu presented our work at the Flatiron Institute <a href="https://www.simonsfoundation.org/video/bin-yu-understanding-deep-learning-models-via-interaction-importance/">Understanding Deep Learning Models via Interaction Importance</a>.
 
@@ -58,9 +59,9 @@ Selected Papers
 ======
 <small>(<span class="equal-contrib">\*</span> denotes equal contribution)</small>
 
-1. A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior.<br>*Mayne, H.<span class="equal-contrib">\*</span>, <b>Kang, J.S.</b><span class="equal-contrib">\*</span>, Gould, D., Ramchandran, K., Mahdi, A., Siegel, N.Y.* <br><span class="venue-badge preprint">Preprint 2026</span> <span class="paper-links"><a href="https://arxiv.org/abs/2602.02639">paper</a></span>
+1. A Positive Case for Faithfulness: LLM Self-Explanations Help Predict Model Behavior.<br>*Mayne, H.<span class="equal-contrib">\*</span>, <b>Kang, J.S.</b><span class="equal-contrib">\*</span>, Gould, D., Ramchandran, K., Mahdi, A., Siegel, N.Y.* <br><span class="venue-badge conference">ICML 2026</span> <span class="venue-badge workshop">ICLR 2026 Trustworthy AI</span> <span class="paper-links"><a href="https://arxiv.org/abs/2602.02639">paper</a></span>
 
-2. An Odd Estimator for Shapley Values.<br>*Fumagalli, F., Butler, L., <b>Kang, J.S.</b>, Ramchandran, K., Witter, R.T.* <br><span class="venue-badge preprint">Preprint 2026</span> <span class="paper-links"><a href="https://arxiv.org/abs/2602.01399">paper</a></span>
+2. An Odd Estimator for Shapley Values.<br>*Fumagalli, F., Butler, L., <b>Kang, J.S.</b>, Ramchandran, K., Witter, R.T.* <br><span class="venue-badge conference">ICML 2026</span> <span class="paper-links"><a href="https://arxiv.org/abs/2602.01399">paper</a></span>
 
 3. ProxySPEX: Inference-Efficient Interpretability via Sparse Feature Interactions in LLMs.<br>*Butler, L.<span class="equal-contrib">\*</span>, Agarwal, A.<span class="equal-contrib">\*</span>, <b>Kang, J.S.</b><span class="equal-contrib">\*</span>, Erginbas, Y.E., Ramchandran, K., Yu, B.* <br><span class="venue-badge spotlight">NeurIPS 2025 Spotlight</span> <span class="paper-links"><a href="https://arxiv.org/abs/2505.17495">paper</a> <a href="/files/ProxySPEX_Poster.pdf">poster</a> <a href="https://www.youtube.com/watch?v=k0Osjkj7l0s">video</a></span>
 
