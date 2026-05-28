@@ -22,13 +22,12 @@ News
 * <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> presented at the **ICLR 2026 Trustworthy AI** conference.
 * Featured in <a href="https://www.together.ai/blog/einsteinarena">Together AI's blog post on EinsteinArena</a> — reclaimed **#1** on the <a href="https://einsteinarena.com/">second autocorrelation inequality leaderboard</a>.
 * New blog post: <a href="/posts/2026/03/human-ai-collaboration-on-open-math-problems-lessons-from-the-autocorrelation-inequality/">Human-AI Collaboration on Open Math Problems</a> — how I used AI agents to achieve #1 on the EinsteinArena leaderboard.
-* BAIR blog post: <a href="https://bair.berkeley.edu/blog/2026/03/13/spex/">Identifying Interactions at Scale for LLMs</a> — an overview of our SPEX line of work on scalable feature interaction explanations.
-* Talk at ITA 2026 graduation day — won the *sea award*. (<a href="/files/ITA 2026.pdf">slides</a>)
-* I was selected as a 2026 <a href="https://www.heronsec.ai/">Heron AI Security Fellow</a>.
-
 <details>
 <summary><strong>Older Announcements</strong></summary>
 <ul>
+<li>BAIR blog post: <a href="https://bair.berkeley.edu/blog/2026/03/13/spex/">Identifying Interactions at Scale for LLMs</a> — an overview of our SPEX line of work on scalable feature interaction explanations.</li>
+<li>Talk at ITA 2026 graduation day — <strong>won the sea award</strong>. (<a href="/files/ITA 2026.pdf">slides</a>)</li>
+<li>I was selected as a 2026 <a href="https://www.heronsec.ai/">Heron AI Security Fellow</a>.</li>
 <li>Papers <em>ProxySPEX</em> (Spotlight) and <em>SHAP-Zero</em> (Poster) accepted to NeurIPS 2025.</li>
 <li>Prof. Bin Yu presented our work at the Flatiron Institute <a href="https://www.simonsfoundation.org/video/bin-yu-understanding-deep-learning-models-via-interaction-importance/">Understanding Deep Learning Models via Interaction Importance</a>.</li>
 <li><em>SPEX: Scaling Feature Interaction Explanations for LLMs</em> accepted to ICML 2025.</li>
