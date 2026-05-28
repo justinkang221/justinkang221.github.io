@@ -16,6 +16,8 @@ I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bai
 
 News
 ======
+* Upcoming invited talk at the <a href="http://cwit.ca/2026/">Canadian Information Theory Workshop (CITW) 2026</a> (June 2026).
+* Invited talk at <a href="https://www.turing.com">Turing.com</a> (May 2026).
 * Papers <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a> accepted to **ICML 2026**.
 * <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> presented at the **ICLR 2026 Trustworthy AI** conference.
 * Featured in <a href="https://www.together.ai/blog/einsteinarena">Together AI's blog post on EinsteinArena</a> — reclaimed **#1** on the <a href="https://einsteinarena.com/">second autocorrelation inequality leaderboard</a>.
