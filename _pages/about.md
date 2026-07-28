@@ -7,16 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models. I am an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and Berkeley Graduate Fellow, and have interned with Google Research, Bosch AI Research, and Intel.
-
-<div class="job-market-callout">
-  <strong>I am on the job market for research scientist and ML engineer positions starting in 2026.</strong>
-  <a href="/files/Resume.pdf" class="cv-btn">CV / Resume</a>
-</div>
+I am a Member of Technical Staff at <a href="https://hiddenweights.com">HiddenWeights</a>. I completed my PhD at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models. I am an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and Berkeley Graduate Fellow.
 
 News
 ======
-* Upcoming invited talk at the <a href="http://cwit.ca/2026/">Canadian Information Theory Workshop (CITW) 2026</a> (June 2026).
+* Joined <a href="https://hiddenweights.com">HiddenWeights</a> as a **Member of Technical Staff**.
+* Invited talk at the <a href="http://cwit.ca/2026/">Canadian Information Theory Workshop (CITW) 2026</a> (June 2026).
 * Invited talk at <a href="https://www.turing.com">Turing.com</a> (May 2026).
 * Papers <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a> accepted to **ICML 2026**.
 * <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> presented at the **ICLR 2026 Trustworthy AI** conference.
@@ -76,12 +72,13 @@ Selected Papers
 
 Industry Experience
 ======
+* **HiddenWeights** — Member of Technical Staff (2026–present)
 * **Google** — Student Researcher, Cloud Platforms Systems Research Group (Summer 2024)
 * **Bosch AI Research** — Research Intern, working on autolabeling and data filtering (Summer 2025)
 * **Intel** — Non-Volatile Memory Solutions Group, Storage Systems Research Intern (previously)
 
 Education
 ======
-* **PhD** in EECS, UC Berkeley (in progress)
+* **PhD** in EECS, UC Berkeley
 * **M.A.Sc.** in ECE, University of Toronto — advised by <a href='https://www.comm.utoronto.ca/~weiyu/'>Prof. Wei Yu</a>
 * **B.A.Sc.** in <a href="https://www.engphys.ubc.ca/">Engineering Physics</a>, University of British Columbia
