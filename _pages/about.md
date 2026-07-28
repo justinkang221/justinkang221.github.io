@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Member of Technical Staff at <a href="https://hiddenweights.com">HiddenWeights</a>. I completed my PhD at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models. I am an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and Berkeley Graduate Fellow.
+I am a Member of Technical Staff at <a href="https://hiddenweights.com">HiddenWeights</a>. I completed my PhD at UC Berkeley (EECS), affiliated with <a href='https://bair.berkeley.edu/'>BAIR</a> and advised by <a href='https://people.eecs.berkeley.edu/~kannanr'>Prof. Kannan Ramchandran</a>. My research develops efficient algorithms for **ML interpretability and attribution** — explaining which input features, training data, and interactions drive model predictions in LLMs and other large-scale models. I was an <a href="https://www.nserc-crsng.gc.ca/">NSERC</a> Doctoral Fellow and Berkeley Graduate Fellow.
 
 News
 ======
@@ -16,7 +16,7 @@ News
 * Invited talk at <a href="https://www.turing.com">Turing.com</a> (May 2026).
 * Papers <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> and <a href="https://arxiv.org/abs/2602.01399">*An Odd Estimator for Shapley Values*</a> accepted to **ICML 2026**.
 * <a href="https://arxiv.org/abs/2602.02639">*A Positive Case for Faithfulness*</a> presented at the **ICLR 2026 Trustworthy AI** conference.
-* Featured in <a href="https://www.together.ai/blog/einsteinarena">Together AI's blog post on EinsteinArena</a> — reclaimed **#1** on the <a href="https://einsteinarena.com/">second autocorrelation inequality leaderboard</a>.
+* Featured in <a href="https://www.together.ai/blog/einsteinarena">Together AI's blog post on EinsteinArena</a> — holding **#1** on the <a href="https://einsteinarena.com/">second autocorrelation inequality leaderboard</a> with a score of **0.96359**.
 * New blog post: <a href="/posts/2026/03/human-ai-collaboration-on-open-math-problems-lessons-from-the-autocorrelation-inequality/">Human-AI Collaboration on Open Math Problems</a> — how I used AI agents to achieve #1 on the EinsteinArena leaderboard.
 <details>
 <summary><strong>Older Announcements</strong></summary>
